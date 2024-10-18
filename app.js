@@ -1,0 +1,1 @@
+// For the formatting ot the dollar amount input, you can try let text = num.toLocaleString("en-US", {style:"currency", currency:"USD"});
