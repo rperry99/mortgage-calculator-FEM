@@ -44,8 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [GitHub Page](https://github.com/rperry99/mortgage-calculator-FEM)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [GitHub Repo](https://github.com/rperry99/mortgage-calculator-FEM)
+- Live Site URL: [GitHub Pages](https://rperry99.github.io/mortgage-calculator-FEM/)
 
 ## My process
 
